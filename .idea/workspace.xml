@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6364e0ea-a401-4986-9c92-24e6eb3182c7" name="更改" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaogao/redisdemo1/RedisDemo1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaogao/redisdemo1/config/Redisconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaogao/redisdemo1/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xiaogao/redisdemo1/RedisDemo1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xiaogao/redisdemo1/RedisStringTset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaogao/redisdemo1/RedisDemo1Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaogao/redisdemo1/config/Redisconfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaogao/redisdemo1/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2026-06-06T10-43-41_179.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.xiaogao.redisdemo1.RedisDemo1ApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.xiaogao.redisdemo1.RedisDemo1ApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xiaogao/redisdemo1/RedisDemo1ApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xiaogao/redisdemo1/RedisStringTset.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "searchQuery": "commit",
+      "state": "OPEN",
+      "assignee": "Liang929"
+    }
+  ],
+  "lastFilter": {
+    "searchQuery": "commit",
+    "state": "OPEN",
+    "assignee": "Liang929"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Liang929/redis-demo1.git&quot;,
+    &quot;accountId&quot;: &quot;f8412682-d944-464e-a272-907e8822ee2c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/4.0.5/spring-data-redis-4.0.5-sources.jar!/org/springframework/data/redis/serializer/GenericJacksonJsonRedisSerializer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.054261831985464" />
+      <entry key="MS500" value="1.965054419347982" />
+      <entry key="S2" value="2.667195261865448" />
+      <entry key="S5" value="2.9596337659137157" />
+      <entry key="S10" value="3.4952079493533432" />
+      <entry key="S30" value="5.311679470271564" />
+      <entry key="S60" value="6.660206140121216" />
+      <entry key="M2" value="8.18489128785936" />
+      <entry key="M5" value="11.78401973816569" />
+      <entry key="M10" value="15.824786868568607" />
+      <entry key="M15" value="18.64852719771672" />
+      <entry key="M30" value="23.549493824792535" />
+      <entry key="H1" value="27.455622938243934" />
+      <entry key="H2" value="29.97866284174141" />
+      <entry key="H4" value="31.420387437125633" />
+      <entry key="D1" value="32.72652963554282" />
+      <entry key="W1" value="32.96067435875758" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.3087616434292129E-25" />
+      <entry key="MS500" value="1.0552907020652506E-5" />
+      <entry key="S2" value="0.0569958228651276" />
+      <entry key="S5" value="0.31798685305247987" />
+      <entry key="S10" value="0.5711145801416646" />
+      <entry key="S30" value="1.0198823252023566" />
+      <entry key="S60" value="1.3719274721175636" />
+      <entry key="M2" value="1.9722299254198785" />
+      <entry key="M5" value="3.906557476526669" />
+      <entry key="M10" value="6.350554329434742" />
+      <entry key="M15" value="8.292903176273594" />
+      <entry key="M30" value="12.029976298785607" />
+      <entry key="H1" value="15.232828831000498" />
+      <entry key="H2" value="17.37530372744061" />
+      <entry key="H4" value="18.620479018229595" />
+      <entry key="D1" value="19.760098759227436" />
+      <entry key="W1" value="19.9654749765658" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8717457154127873" />
+      <entry key="MS500" value="1.515052134920683" />
+      <entry key="S2" value="2.4116650871268837" />
+      <entry key="S5" value="3.0973858644215335" />
+      <entry key="S10" value="3.9355035879269837" />
+      <entry key="S30" value="6.209994175416972" />
+      <entry key="S60" value="7.932450506290942" />
+      <entry key="M2" value="10.086479795099017" />
+      <entry key="M5" value="15.646448486330103" />
+      <entry key="M10" value="22.143544648757715" />
+      <entry key="M15" value="26.914658122832595" />
+      <entry key="M30" value="35.56043324526713" />
+      <entry key="H1" value="42.676433693280984" />
+      <entry key="H2" value="47.347109661457615" />
+      <entry key="H4" value="50.037189997136" />
+      <entry key="D1" value="52.48597767504666" />
+      <entry key="W1" value="52.92605539570837" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EhHMUAmvy7PrmaL8TTgLfa00Sj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.RedisDemo1ApplicationTests.contextLoads.executor": "Run",
+    "JUnit.RedisDemo1ApplicationTests.testSaveUser.executor": "Run",
+    "JUnit.RedisStringTset.testHash.executor": "Run",
+    "JUnit.RedisStringTset.testSaveUser.executor": "Run",
+    "JUnit.RedisStringTset.testString.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\24351\\AppData\\Roaming\\JetBrains\\IntelliJIdea2026.1\\plugins\\Shell Script\\shellcheck.exe",
+    "Spring Boot.RedisDemo1Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javaProject/redis/redis-demo1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.RedisStringTset.testSaveUser">
+    <configuration name="RedisDemo1ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogao.redisdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogao.redisdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogao.redisdemo1.RedisDemo1ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemo1ApplicationTests.testSaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogao.redisdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogao.redisdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogao.redisdemo1.RedisDemo1ApplicationTests" />
+      <option name="METHOD_NAME" value="testSaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisStringTset.testHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogao.redisdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogao.redisdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogao.redisdemo1.RedisStringTset" />
+      <option name="METHOD_NAME" value="testHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisStringTset.testSaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogao.redisdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogao.redisdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogao.redisdemo1.RedisStringTset" />
+      <option name="METHOD_NAME" value="testSaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisStringTset.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogao.redisdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogao.redisdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogao.redisdemo1.RedisStringTset" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="redis-demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaogao.redisdemo1.RedisDemo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisStringTset.testSaveUser" />
+        <item itemvalue="JUnit.RedisStringTset.testHash" />
+        <item itemvalue="JUnit.RedisStringTset.testString" />
+        <item itemvalue="JUnit.RedisDemo1ApplicationTests.testSaveUser" />
+        <item itemvalue="JUnit.RedisDemo1ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6364e0ea-a401-4986-9c92-24e6eb3182c7" name="更改" comment="" />
+      <created>1780623835696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780623835696</updated>
+      <workItem from="1780623836704" duration="142000" />
+      <workItem from="1780624082403" duration="5679000" />
+      <workItem from="1780711187784" duration="4399000" />
+      <workItem from="1780715666925" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="src&#10;target&#10;pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="src&#10;target&#10;pom.xml" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

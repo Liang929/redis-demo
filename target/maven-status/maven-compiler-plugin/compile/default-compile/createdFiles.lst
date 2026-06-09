@@ -1,0 +1,3 @@
+com\xiaogao\redisdemo1\config\Redisconfig.class
+com\xiaogao\redisdemo1\pojo\User.class
+com\xiaogao\redisdemo1\RedisDemo1Application.class
